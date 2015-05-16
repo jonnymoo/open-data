@@ -4,4 +4,4 @@
 */
 
 var OpenData = {
-}
+};
