@@ -1,3 +1,5 @@
+QUnit.module("Mapping Tests");
+
 QUnit.test("Given a mapping service I can query something", function (assert) {
 
 	var mapping = OpenData.Mapping();
